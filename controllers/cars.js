@@ -1,4 +1,4 @@
-const bcrypt = require("bcrypt");
+
 const { connect, closeConnection } = require("../database/connection");
 const sql = require("mssql");
 
